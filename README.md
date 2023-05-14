@@ -19,3 +19,4 @@ I have uploaded all the practice labs that I solved during this course. These la
 * Lab_10: Neural Network 
 * Lab_11: Back propagation
 * Lab_12: Naive Bayes
+* Lab_13: Kmeans
